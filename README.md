@@ -7,7 +7,7 @@ Independent research and engineering for reproducible AI music and music video p
 
 [**Research portfolio**](#research-portfolio) · [**Watch the demo**](#verified-demo) · [**Engineering evidence**](#engineering-evidence) · [**Development roadmap**](#development-roadmap)
 
-**5 research projects · 5 initial alpha releases · Five-repository offline synthetic integration verified**
+**5 research projects · Five-repository synthetic integration · 11/11 stages passed**
 
 ## Verified demo
 
@@ -21,9 +21,11 @@ This is a **synthetic technical demonstration**, not a finished musical work. Ac
 
 ## Latest integration milestone
 
-[Five-repository integration runner](https://github.com/Gacky-Lab/AI-MUSIC-VIDEO-STUDIO/blob/main/docs/FIVE_REPO_INTEGRATION.md) · [Verified CI and downloadable evidence](https://github.com/Gacky-Lab/AI-MUSIC-VIDEO-STUDIO/actions/runs/45546958404)
+[Five-repository integration runner](https://github.com/Gacky-Lab/AI-MUSIC-VIDEO-STUDIO/blob/main/docs/FIVE_REPO_INTEGRATION.md) · [Verified expanded CI](https://github.com/Gacky-Lab/AI-MUSIC-VIDEO-STUDIO/actions/runs/45547270779) · [Permanent alpha release and evidence](https://github.com/Gacky-Lab/AI-MUSIC-VIDEO-STUDIO/releases/tag/v0.2.0-alpha)
 
-Actual pinned lyric, Suno proposal, MIDI, MIR and video code was exercised in one synthetic workflow. All nine runner stages passed; host and network-disabled Docker artifact hashes matched. The resulting 30-second synthetic MP4 passed seven independent render/audio checks.
+Actual pinned lyric, Suno proposal, MIDI, MIR and video code was exercised in one synthetic workflow. All eleven runner stages passed; host and network-disabled Docker artifact hashes matched. On the controlled synthetic fixture, 309/309 eligible pitch frames were within 35 cents, all 60 candidate note pitches matched in order, and maximum onset error was 35 ms. The resulting 30-second synthetic MP4 passed seven independent render/audio checks.
+
+[Local browser console](https://github.com/Gacky-Lab/AI-MUSIC-VIDEO-STUDIO/blob/main/docs/LOCAL_CONSOLE.md) · [Coverage evidence](https://github.com/Gacky-Lab/AI-MUSIC-VIDEO-STUDIO/actions/runs/45548022408) (runner 182/182 lines and 13/14 branches; combined scripts 284/536 lines and 42/70 branches) · [Security evidence](https://github.com/Gacky-Lab/AI-MUSIC-VIDEO-STUDIO/actions/runs/45547458355) (zero known dependency findings in scanned sets; 24 LOW static warnings).
 
 The Suno transaction is simulated; the audio comes from a simple synthesizer driven by extracted MIDI notes, not Suno or VOCALOID singing. Real-song and human artistic acceptance remain NOT_RUN.
 
@@ -35,7 +37,7 @@ The Suno transaction is simulated; the audio comes from a simple synthesizer dri
 | [SUNO-GENERATION-OPTIMIZER](https://github.com/Gacky-Lab/SUNO-GENERATION-OPTIMIZER) | Suno MCP, bounded feedback, independent audio QA | [v0.2.0-alpha](https://github.com/Gacky-Lab/SUNO-GENERATION-OPTIMIZER/releases/tag/v0.2.0-alpha) |
 | [AI-MUSIC-INTELLIGENCE-ENGINE](https://github.com/Gacky-Lab/AI-MUSIC-INTELLIGENCE-ENGINE) | Music information retrieval, signal analysis, evidence contracts | [v0.1.0-alpha](https://github.com/Gacky-Lab/AI-MUSIC-INTELLIGENCE-ENGINE/releases/tag/v0.1.0-alpha) |
 | [AI-VOCALOID-STUDIO](https://github.com/Gacky-Lab/AI-VOCALOID-STUDIO) | Song IR, vocal synthesis, MIDI and DAW workflows | [v0.1.0-alpha](https://github.com/Gacky-Lab/AI-VOCALOID-STUDIO/releases/tag/v0.1.0-alpha) |
-| [AI-MUSIC-VIDEO-STUDIO](https://github.com/Gacky-Lab/AI-MUSIC-VIDEO-STUDIO) | Lyric synchronization, programmatic editing, rendering, video QA | [v0.1.0-alpha](https://github.com/Gacky-Lab/AI-MUSIC-VIDEO-STUDIO/releases/tag/v0.1.0-alpha) |
+| [AI-MUSIC-VIDEO-STUDIO](https://github.com/Gacky-Lab/AI-MUSIC-VIDEO-STUDIO) | Lyric synchronization, programmatic editing, rendering, video QA | [v0.2.0-alpha](https://github.com/Gacky-Lab/AI-MUSIC-VIDEO-STUDIO/releases/tag/v0.2.0-alpha) |
 
 All releases are research previews, not production-ready products.
 
