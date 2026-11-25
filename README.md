@@ -7,7 +7,7 @@ Independent research and engineering for reproducible AI music and music video p
 
 [**Research portfolio**](#research-portfolio) · [**Watch the demo**](#verified-demo) · [**Engineering evidence**](#engineering-evidence) · [**Development roadmap**](#development-roadmap)
 
-**5 research projects · 5 alpha releases · 14/14 synthetic integration and technical checks passed**
+**5 research projects · 5 initial alpha releases · Five-repository offline synthetic integration verified**
 
 ## Verified demo
 
@@ -18,6 +18,14 @@ Independent research and engineering for reproducible AI music and music video p
 1920 × 1080 · 30 fps · Remotion + Python + FFmpeg · Generated in GitHub Actions.
 
 This is a **synthetic technical demonstration**, not a finished musical work. Actual lyric, MIR and video preparation implementations were connected; original synthetic audio and Japanese demonstration captions were used. No paid generation API was used for this demo.
+
+## Latest integration milestone
+
+[Five-repository integration runner](https://github.com/Gacky-Lab/AI-MUSIC-VIDEO-STUDIO/blob/main/docs/FIVE_REPO_INTEGRATION.md) · [Verified CI and downloadable evidence](https://github.com/Gacky-Lab/AI-MUSIC-VIDEO-STUDIO/actions/runs/45546958404)
+
+Actual pinned lyric, Suno proposal, MIDI, MIR and video code was exercised in one synthetic workflow. All nine runner stages passed; host and network-disabled Docker artifact hashes matched. The resulting 30-second synthetic MP4 passed seven independent render/audio checks.
+
+The Suno transaction is simulated; the audio comes from a simple synthesizer driven by extracted MIDI notes, not Suno or VOCALOID singing. Real-song and human artistic acceptance remain NOT_RUN.
 
 ## Research portfolio
 
@@ -62,6 +70,9 @@ The architecture shows the intended production system. It is not a claim that ev
 - [x] Synthetic music analysis and 30-second video rendering.
 - [x] Three-repository Japanese synthetic integration verification.
 - [ ] Authorized real-song preview, human review and Windows reproduction — [tracking issue](https://github.com/Gacky-Lab/AI-MUSIC-VIDEO-STUDIO/issues/6).
+- [x] Monophonic pitch and review-only note candidate baselines; synthetic tests passed.
+- [x] Timestamped transcript to review-only lyric timing candidates; synthetic tests passed.
+- [x] Five-repository offline integration and Docker reproducibility.
 - [ ] Real-song beat/pitch analysis and annotated accuracy evaluation — [tracking issue](https://github.com/Gacky-Lab/AI-MUSIC-INTELLIGENCE-ENGINE/issues/2).
 - [ ] Faithful vocal reconstruction, full-length music video and end-to-end verification.
 - [ ] Independent third-party reproduction and controlled comparison.
