@@ -7,10 +7,10 @@
 <text x="224" y="195">LYRIC DESIGN</text><text x="224" y="227" font-size="16" font-weight="normal">Intent / emotion / lyrics</text>
 <text x="640" y="195">SUNO OPTIMIZER</text><text x="640" y="227" font-size="16" font-weight="normal">Generation / bounded feedback</text>
 <text x="1056" y="195">VOCALOID STUDIO</text><text x="1056" y="227" font-size="16" font-weight="normal">Singing / arrangement / mix</text>
-<text x="224" y="397">MUSIC INTELLIGENCE</text><text x="224" y="429" font-size="16" font-weight="normal">MIR / transcription / evidence</text>
+<text x="224" y="397">MUSIC INTELLIGENCE</text><text x="224" y="429" font-size="16" font-weight="normal">MIR / pitch candidates / evidence</text>
 <text x="640" y="397">MUSIC HANDOFF</text><text x="640" y="429" font-size="16" font-weight="normal">Final master / timing / provenance</text>
 <text x="1056" y="397">MUSIC VIDEO STUDIO</text><text x="1056" y="429" font-size="16" font-weight="normal">Video IR / render / scene QA</text></g>
 <g stroke="#93a9c0" stroke-width="3" fill="none" marker-end="url(#arrow)"><path d="M394 211H470"/><path d="M810 211H886"/><path d="M640 267V357"/><path d="M1056 267V315H730V357"/><path d="M394 413H470" stroke-dasharray="7 6"/><path d="M810 413H886"/><path d="M1056 469V541"/></g>
 <rect x="470" y="541" width="756" height="95" rx="12" fill="#16483f" stroke="#4cb49d" stroke-width="2"/>
 <g font-family="Arial,sans-serif" fill="#e7fbf5" text-anchor="middle"><text x="848" y="577" font-size="23" font-weight="bold">Independent QA + Human Approval</text><text x="848" y="607" font-size="17">Approved music and MV release package</text></g>
-<text x="54" y="676" font-family="Arial,sans-serif" font-size="16" fill="#adbed1">Design intent only. Implementation and verification status: see each repository.</text></svg>
+<text x="54" y="676" font-family="Arial,sans-serif" font-size="16" fill="#adbed1">Conceptual interfaces only. Dashed CDE branch: research proposal, not a verified production stage.</text><path d="M224 469V541" stroke="#77ddcd" stroke-width="2.5" stroke-dasharray="7 6" fill="none"/><rect x="54" y="541" width="340" height="95" rx="12" fill="#173b3b" stroke="#4cb49d" stroke-width="2" stroke-dasharray="7 5"/><g font-family="Arial,sans-serif" fill="#e7fbf5" text-anchor="middle"><text x="224" y="572" font-size="20" font-weight="bold">CDE RESEARCH</text><text x="224" y="596" font-size="16">Creative deviation evaluation</text><text x="224" y="619" font-size="15" fill="#a8d7ce">Proposal / NOT_RUN</text></g></svg>

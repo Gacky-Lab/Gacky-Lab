@@ -43,6 +43,8 @@ Exploratory public user feedback, existing product capabilities and research mot
 
 Priority is a provisional research decision, not a ranking of market size. / 優先度は暫定的な研究判断であり、市場規模の順位ではありません。
 
+**Research evidence / 調査・検証の正本:** [Market evidence and counterexamples / 市場の声・反証](docs/market-research/MARKET_EVIDENCE.md) · [Related projects / 既存手段](docs/market-research/RELATED_PROJECTS.md) · [Requirements traceability and validation / 要求・検証](docs/governance/RESEARCH_TRACEABILITY.md) · [Current status / 研究状態](docs/governance/RESEARCH_STATUS.md).
+
 **First validation scenario / 最初の検証シナリオ:** Change a short lyric phrase while preserving the melody or another explicitly specified expressive element. Compare with available editing methods using authorized material, matched conditions, and creator review. / 短い歌詞を修正しながら指定した旋律・表現を保持できるか、自作・許諾済み素材を用いて既存手段と比較する。統制不能な場合は複合比較として扱う。
 
 ## Creative Deviation Evaluation (CDE)
@@ -97,7 +99,7 @@ All releases are research previews, not production-ready products.
 
 ![Conceptual architecture of Gacky-Lab](assets/architecture.svg)
 
-The architecture shows the intended production system. It is not a claim that every connection is operational. Suno-only and VOCALOID/DAW paths are both research targets.
+The architecture shows the intended production system. It is not a claim that every connection is operational. Suno-only and VOCALOID/DAW paths are both research targets. The dashed CDE branch is a research proposal, not a verified production stage. / 破線のCDEは研究提案であり、検証済み工程ではありません.
 
 ## Engineering evidence
 
