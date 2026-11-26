@@ -1,0 +1,152 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" role="img" aria-labelledby="title desc"><title id="title">Gacky-Lab | 日英併記の研究ポートフォリオ / Bilingual research portfolio</title><desc id="desc">Independent research on human-directed AI music creation. Six provisional market problems, five repositories, CDE within Music Intelligence, and bounded verification status.</desc><defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A1420"/><stop offset="1" stop-color="#102536"/></linearGradient><linearGradient id="accent"><stop stop-color="#7FE0CE"/><stop offset="1" stop-color="#A2C9F6"/></linearGradient><pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#A2C9F6" stroke-opacity=".035"/></pattern></defs><rect width="1920" height="1080" fill="url(#bg)"/><rect width="1920" height="1080" fill="url(#grid)"/><g font-family="Noto Sans CJK JP, Yu Gothic, Meiryo, Arial, sans-serif">
+<rect x="48" y="36" width="66" height="66" rx="14" fill="#183D43" stroke="#458C86" stroke-width="1"/>
+<path d="M61 61.0V77.0" stroke="#7FE0CE" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M69 55.0V83.0" stroke="#7FE0CE" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M77 47.0V91.0" stroke="#7FE0CE" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M85 56.5V81.5" stroke="#7FE0CE" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M93 51.0V87.0" stroke="#7FE0CE" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+<path d="M101 60.0V78.0" stroke="#7FE0CE" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+<text x="132" y="91" font-size="60" fill="#F0F6FA" font-weight="800" text-anchor="start" >Gacky-Lab</text>
+<text x="49" y="134" font-size="23" fill="#7FE0CE" font-weight="500" text-anchor="start" >独立研究  /  Independent research</text>
+<path d="M571 36V142" stroke="#304759" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+<text x="605" y="75" font-size="37" fill="#F0F6FA" font-weight="700" text-anchor="start" >AIで曲を作ることから、自分の音楽を作ることへ。</text>
+<text x="606" y="112" font-size="30" fill="#F0F6FA" font-weight="500" text-anchor="start" >From AI-generated music to human-directed creativity.</text>
+<text x="606" y="144" font-size="20" fill="#7FE0CE" font-weight="500" text-anchor="start" >感性は人間に。検証はシステムに。 / Human-led creativity. Evidence-driven engineering.</text>
+<rect x="48" y="160" width="1824" height="3" rx="1" fill="url(#accent)"/>
+<rect x="48" y="181" width="565" height="180" rx="12" fill="#122335" stroke="#304759" stroke-width="1"/>
+<text x="67" y="215" font-size="25" fill="#F0F6FA" font-weight="700" text-anchor="start" >対象者 / Audience</text>
+<text x="67" y="245" font-size="19" fill="#7FE0CE" font-weight="700" text-anchor="start" >主対象（仮説） / Primary (hypothesis)</text>
+<text x="67" y="274" font-size="24" fill="#F0F6FA" font-weight="700" text-anchor="start" >AI音楽制作者・ボカロP・DTM制作者</text>
+<text x="67" y="298" font-size="19" fill="#B5C7D3" font-weight="400" text-anchor="start" >AI music, vocal-synthesis &amp; DAW creators</text>
+<text x="67" y="327" font-size="19" fill="#F0F6FA" font-weight="500" text-anchor="start" >副対象：音楽技術開発者・共創研究者</text>
+<text x="67" y="348" font-size="16" fill="#B5C7D3" font-weight="400" text-anchor="start" >Secondary: music tech developers &amp; co-creation researchers</text>
+<rect x="627" y="181" width="407" height="180" rx="12" fill="#122335" stroke="#304759" stroke-width="1"/>
+<rect x="644" y="197" width="39" height="31" rx="7" fill="#233B4A"/>
+<text x="663.5" y="220" font-size="18" fill="#7FE0CE" font-weight="700" text-anchor="middle" >01</text>
+<text x="695" y="222" font-size="29" fill="#7FE0CE" font-weight="700" text-anchor="start" >制御性</text>
+<text x="695" y="251" font-size="23" fill="#F0F6FA" font-weight="500" text-anchor="start" >Controllability</text>
+<path d="M645 268H1016" stroke="#304759" stroke-width="1" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+<text x="645" y="299" font-size="23" fill="#F0F6FA" font-weight="700" text-anchor="start" >意図した修正・表現の保持</text>
+<text x="645" y="328" font-size="17" fill="#B5C7D3" font-weight="400" text-anchor="start" >Edit intended elements; preserve expression</text>
+<rect x="1046" y="181" width="407" height="180" rx="12" fill="#122335" stroke="#304759" stroke-width="1"/>
+<rect x="1063" y="197" width="39" height="31" rx="7" fill="#233B4A"/>
+<text x="1082.5" y="220" font-size="18" fill="#A2C9F6" font-weight="700" text-anchor="middle" >02</text>
+<text x="1114" y="222" font-size="29" fill="#A2C9F6" font-weight="700" text-anchor="start" >再現性</text>
+<text x="1114" y="251" font-size="23" fill="#F0F6FA" font-weight="500" text-anchor="start" >Reproducibility</text>
+<path d="M1064 268H1435" stroke="#304759" stroke-width="1" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+<text x="1064" y="299" font-size="23" fill="#F0F6FA" font-weight="700" text-anchor="start" >制作条件・変更・判断の追跡</text>
+<text x="1064" y="328" font-size="17" fill="#B5C7D3" font-weight="400" text-anchor="start" >Trace conditions, changes and decisions</text>
+<rect x="1465" y="181" width="407" height="180" rx="12" fill="#122335" stroke="#304759" stroke-width="1"/>
+<rect x="1482" y="197" width="39" height="31" rx="7" fill="#233B4A"/>
+<text x="1501.5" y="220" font-size="18" fill="#E8C48D" font-weight="700" text-anchor="middle" >03</text>
+<text x="1533" y="222" font-size="29" fill="#E8C48D" font-weight="700" text-anchor="start" >創造的発見</text>
+<text x="1533" y="251" font-size="23" fill="#F0F6FA" font-weight="500" text-anchor="start" >Creative discovery</text>
+<path d="M1483 268H1854" stroke="#304759" stroke-width="1" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+<text x="1483" y="299" font-size="23" fill="#F0F6FA" font-weight="700" text-anchor="start" >意図外変化の価値を調べる</text>
+<text x="1483" y="328" font-size="17" fill="#B5C7D3" font-weight="400" text-anchor="start" >Investigate value in unexpected changes</text>
+<rect x="48" y="380" width="858" height="432" rx="12" fill="#122335" stroke="#304759" stroke-width="1"/>
+<rect x="920" y="380" width="952" height="432" rx="12" fill="#122335" stroke="#304759" stroke-width="1"/>
+<text x="67" y="414" font-size="27" fill="#F0F6FA" font-weight="700" text-anchor="start" >市場課題仮説</text>
+<text x="67" y="441" font-size="19" fill="#7FE0CE" font-weight="500" text-anchor="start" >Market problem hypotheses</text>
+<text x="885" y="414" font-size="17" fill="#B5C7D3" font-weight="500" text-anchor="end" >暫定優先度 / Provisional priority</text>
+<rect x="67" y="459" width="400" height="94" rx="9" fill="#152A3A" stroke="#2D4556" stroke-width="1"/>
+<text x="81" y="484" font-size="18" fill="#7FE0CE" font-weight="700" text-anchor="start" >MP-05</text>
+<text x="453" y="484" font-size="18" fill="#7FE0CE" font-weight="700" text-anchor="end" >P1</text>
+<text x="81" y="511" font-size="23" fill="#F0F6FA" font-weight="700" text-anchor="start" >修正で残したい表現が変わる</text>
+<text x="81" y="537" font-size="18" fill="#B5C7D3" font-weight="400" text-anchor="start" >Desired expression changes in edits</text>
+<rect x="479" y="459" width="400" height="94" rx="9" fill="#152A3A" stroke="#2D4556" stroke-width="1"/>
+<text x="493" y="484" font-size="18" fill="#7FE0CE" font-weight="700" text-anchor="start" >MP-02</text>
+<text x="865" y="484" font-size="18" fill="#7FE0CE" font-weight="700" text-anchor="end" >P1</text>
+<text x="493" y="511" font-size="23" fill="#F0F6FA" font-weight="700" text-anchor="start" >再生成に時間・費用がかかる</text>
+<text x="493" y="537" font-size="18" fill="#B5C7D3" font-weight="400" text-anchor="start" >Repeated generation effort &amp; cost</text>
+<rect x="67" y="563" width="400" height="94" rx="9" fill="#152A3A" stroke="#2D4556" stroke-width="1"/>
+<text x="81" y="588" font-size="18" fill="#A2C9F6" font-weight="700" text-anchor="start" >MP-04</text>
+<text x="453" y="588" font-size="18" fill="#A2C9F6" font-weight="700" text-anchor="end" >P2</text>
+<text x="81" y="615" font-size="23" fill="#F0F6FA" font-weight="700" text-anchor="start" >偶然の魅力を見落とす</text>
+<text x="81" y="641" font-size="18" fill="#B5C7D3" font-weight="400" text-anchor="start" >Overlooked creative changes</text>
+<rect x="479" y="563" width="400" height="94" rx="9" fill="#152A3A" stroke="#2D4556" stroke-width="1"/>
+<text x="493" y="588" font-size="18" fill="#A2C9F6" font-weight="700" text-anchor="start" >MP-03</text>
+<text x="865" y="588" font-size="18" fill="#A2C9F6" font-weight="700" text-anchor="end" >P2</text>
+<text x="493" y="615" font-size="23" fill="#F0F6FA" font-weight="700" text-anchor="start" >音符抽出後の修正負担</text>
+<text x="493" y="641" font-size="18" fill="#B5C7D3" font-weight="400" text-anchor="start" >Note-extraction correction effort</text>
+<rect x="67" y="667" width="400" height="94" rx="9" fill="#152A3A" stroke="#2D4556" stroke-width="1"/>
+<text x="81" y="692" font-size="18" fill="#E8C48D" font-weight="700" text-anchor="start" >MP-06</text>
+<text x="453" y="692" font-size="18" fill="#E8C48D" font-weight="700" text-anchor="end" >P3</text>
+<text x="81" y="719" font-size="23" fill="#F0F6FA" font-weight="700" text-anchor="start" >MV制作・同期の負担</text>
+<text x="81" y="745" font-size="18" fill="#B5C7D3" font-weight="400" text-anchor="start" >Music video production effort</text>
+<rect x="479" y="667" width="400" height="94" rx="9" fill="#152A3A" stroke="#2D4556" stroke-width="1"/>
+<text x="493" y="692" font-size="18" fill="#E8C48D" font-weight="700" text-anchor="start" >MP-01</text>
+<text x="865" y="692" font-size="18" fill="#E8C48D" font-weight="700" text-anchor="end" >P3</text>
+<text x="493" y="719" font-size="23" fill="#F0F6FA" font-weight="700" text-anchor="start" >作詞・改稿の判断が難しい</text>
+<text x="493" y="745" font-size="18" fill="#B5C7D3" font-weight="400" text-anchor="start" >Difficult lyric revision decisions</text>
+<text x="67" y="786" font-size="19" fill="#7FE0CE" font-weight="500" text-anchor="start" >探索的な公開情報に基づく仮説。需要・優位性は未実証。</text>
+<text x="67" y="804" font-size="15" fill="#B5C7D3" font-weight="400" text-anchor="start" >Exploratory public evidence; demand and comparative advantage unvalidated.</text>
+<text x="940" y="414" font-size="27" fill="#F0F6FA" font-weight="700" text-anchor="start" >5つの研究リポジトリ</text>
+<text x="940" y="441" font-size="19" fill="#7FE0CE" font-weight="500" text-anchor="start" >Five research repositories</text>
+<text x="1852" y="414" font-size="18" fill="#B5C7D3" font-weight="500" text-anchor="end" >研究体系 / Research portfolio</text>
+<rect x="940" y="458" width="912" height="50" rx="7" fill="#152A3A"/>
+<text x="953" y="489" font-size="19" fill="#7FE0CE" font-weight="700" text-anchor="start" >01</text>
+<text x="988" y="489" font-size="20" fill="#F0F6FA" font-weight="700" text-anchor="start" >LYRIC-DESIGN-FRAMEWORK</text>
+<text x="1448" y="478" font-size="20" fill="#F0F6FA" font-weight="500" text-anchor="start" >歌詞設計・改稿</text>
+<text x="1448" y="498" font-size="16" fill="#B5C7D3" font-weight="400" text-anchor="start" >Lyric design &amp; revision</text>
+<rect x="940" y="513" width="912" height="50" rx="7" fill="#152A3A"/>
+<text x="953" y="544" font-size="19" fill="#7FE0CE" font-weight="700" text-anchor="start" >02</text>
+<text x="988" y="544" font-size="20" fill="#F0F6FA" font-weight="700" text-anchor="start" >SUNO-GENERATION-OPTIMIZER</text>
+<text x="1448" y="533" font-size="20" fill="#F0F6FA" font-weight="500" text-anchor="start" >生成制御・要求検証</text>
+<text x="1448" y="553" font-size="16" fill="#B5C7D3" font-weight="400" text-anchor="start" >Generation control &amp; verification</text>
+<rect x="940" y="568" width="912" height="50" rx="7" fill="#152A3A"/>
+<text x="953" y="599" font-size="19" fill="#7FE0CE" font-weight="700" text-anchor="start" >03</text>
+<text x="988" y="599" font-size="20" fill="#F0F6FA" font-weight="700" text-anchor="start" >AI-MUSIC-INTELLIGENCE-ENGINE</text>
+<text x="1448" y="588" font-size="20" fill="#F0F6FA" font-weight="500" text-anchor="start" >音楽情報処理・独立測定</text>
+<text x="1448" y="608" font-size="16" fill="#B5C7D3" font-weight="400" text-anchor="start" >Music analysis &amp; evidence</text>
+<rect x="940" y="680" width="912" height="50" rx="7" fill="#152A3A"/>
+<text x="953" y="711" font-size="19" fill="#7FE0CE" font-weight="700" text-anchor="start" >04</text>
+<text x="988" y="711" font-size="20" fill="#F0F6FA" font-weight="700" text-anchor="start" >AI-VOCALOID-STUDIO</text>
+<text x="1448" y="700" font-size="20" fill="#F0F6FA" font-weight="500" text-anchor="start" >歌唱・楽曲の再構築</text>
+<text x="1448" y="720" font-size="16" fill="#B5C7D3" font-weight="400" text-anchor="start" >Vocal &amp; music reconstruction</text>
+<rect x="940" y="735" width="912" height="50" rx="7" fill="#152A3A"/>
+<text x="953" y="766" font-size="19" fill="#7FE0CE" font-weight="700" text-anchor="start" >05</text>
+<text x="988" y="766" font-size="20" fill="#F0F6FA" font-weight="700" text-anchor="start" >AI-MUSIC-VIDEO-STUDIO</text>
+<text x="1448" y="755" font-size="20" fill="#F0F6FA" font-weight="500" text-anchor="start" >映像制作・同期・検査</text>
+<text x="1448" y="775" font-size="16" fill="#B5C7D3" font-weight="400" text-anchor="start" >Video production, sync &amp; QA</text>
+<path d="M962 618V645H980" stroke="#7FE0CE" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4 4"/>
+<rect x="980" y="623" width="872" height="51" rx="7" fill="#173C40" stroke="#43877E" stroke-width="1"/>
+<text x="995" y="644" font-size="20" fill="#7FE0CE" font-weight="700" text-anchor="start" >CDE：意図外変化の創作価値評価</text>
+<text x="995" y="666" font-size="18" fill="#F0F6FA" font-weight="500" text-anchor="start" >Creative Deviation Evaluation</text>
+<text x="1835" y="645" font-size="19" fill="#7FE0CE" font-weight="700" text-anchor="end" >研究提案 / Proposal</text>
+<text x="1835" y="665" font-size="16" fill="#B5C7D3" font-weight="500" text-anchor="end" >未実証 / NOT_RUN</text>
+<text x="940" y="803" font-size="18" fill="#7FE0CE" font-weight="500" text-anchor="start" >最初の検証：歌詞修正と旋律保持 / First test: lyric edit with melody preserved</text>
+<rect x="48" y="828" width="1824" height="102" rx="12" fill="#132738" stroke="#304759" stroke-width="1"/>
+<text x="67" y="856" font-size="22" fill="#7FE0CE" font-weight="700" text-anchor="start" >研究の流れ（構想） / Conceptual research flow</text>
+<text x="68" y="891" font-size="26" fill="#F0F6FA" font-weight="700" text-anchor="start" >創作意図</text>
+<text x="68" y="916" font-size="19" fill="#B5C7D3" font-weight="400" text-anchor="start" >Creative intent</text>
+<path d="M362 893H408l-10 -8M408 893l-10 8" stroke="#7FE0CE" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+<text x="433" y="891" font-size="26" fill="#F0F6FA" font-weight="700" text-anchor="start" >音楽的変化</text>
+<text x="433" y="916" font-size="19" fill="#B5C7D3" font-weight="400" text-anchor="start" >Musical change</text>
+<path d="M727 893H773l-10 -8M773 893l-10 8" stroke="#7FE0CE" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+<text x="798" y="891" font-size="26" fill="#F0F6FA" font-weight="700" text-anchor="start" >独立した証拠</text>
+<text x="798" y="916" font-size="19" fill="#B5C7D3" font-weight="400" text-anchor="start" >Independent evidence</text>
+<path d="M1092 893H1138l-10 -8M1138 893l-10 8" stroke="#7FE0CE" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+<text x="1163" y="891" font-size="26" fill="#F0F6FA" font-weight="700" text-anchor="start" >人間の判断</text>
+<text x="1163" y="916" font-size="19" fill="#B5C7D3" font-weight="400" text-anchor="start" >Human judgement</text>
+<path d="M1457 893H1503l-10 -8M1503 893l-10 8" stroke="#7FE0CE" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+<text x="1528" y="891" font-size="26" fill="#F0F6FA" font-weight="700" text-anchor="start" >創作知識</text>
+<text x="1528" y="916" font-size="19" fill="#B5C7D3" font-weight="400" text-anchor="start" >Creative knowledge</text>
+<text x="48" y="961" font-size="23" fill="#F0F6FA" font-weight="700" text-anchor="start" >現在地 / Research status</text>
+<rect x="48" y="974" width="600" height="79" rx="8" fill="#112332" stroke="#304759" stroke-width="1"/>
+<rect x="48" y="974" width="4" height="79" rx="2" fill="#7FE0CE"/>
+<text x="63" y="996" font-size="17" fill="#7FE0CE" font-weight="700" text-anchor="start" >技術検証 / Technical evidence</text>
+<text x="63" y="1023" font-size="21" fill="#F0F6FA" font-weight="700" text-anchor="start" >合成素材の統合検証 11/11 工程</text>
+<text x="63" y="1045" font-size="16" fill="#B5C7D3" font-weight="400" text-anchor="start" >11/11 synthetic integration stages passed</text>
+<rect x="660" y="974" width="600" height="79" rx="8" fill="#112332" stroke="#304759" stroke-width="1"/>
+<rect x="660" y="974" width="4" height="79" rx="2" fill="#A2C9F6"/>
+<text x="675" y="996" font-size="17" fill="#A2C9F6" font-weight="700" text-anchor="start" >研究提案 / Research proposal</text>
+<text x="675" y="1023" font-size="21" fill="#F0F6FA" font-weight="700" text-anchor="start" >CDE：比較試聴は未実施</text>
+<text x="675" y="1045" font-size="16" fill="#B5C7D3" font-weight="400" text-anchor="start" >CDE: listening study NOT_RUN</text>
+<rect x="1272" y="974" width="600" height="79" rx="8" fill="#112332" stroke="#304759" stroke-width="1"/>
+<rect x="1272" y="974" width="4" height="79" rx="2" fill="#E8C48D"/>
+<text x="1287" y="996" font-size="17" fill="#E8C48D" font-weight="700" text-anchor="start" >未実証 / Not yet validated</text>
+<text x="1287" y="1023" font-size="21" fill="#F0F6FA" font-weight="700" text-anchor="start" >市場需要・実楽曲の一貫制作</text>
+<text x="1287" y="1045" font-size="16" fill="#B5C7D3" font-weight="400" text-anchor="start" >Market demand &amp; real-song end-to-end production</text>
+<text x="1872" y="1070" font-size="15" fill="#B5C7D3" font-weight="400" text-anchor="end" >研究ポートフォリオ・商用サービスではない / Research portfolio, not a commercial service  ·  2026-11-26</text>
+</g></svg>

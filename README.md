@@ -12,6 +12,14 @@ Gacky-Labは、AIで生成した音楽を自分の表現として作り込みた
 
 [**Research portfolio / 研究一覧**](#research-portfolio) · [**CDE**](#creative-deviation-evaluation-cde) · [**Watch the demo / デモ**](#verified-demo) · [**Engineering evidence / 検証実績**](#engineering-evidence) · [**Development roadmap / 開発計画**](#development-roadmap)
 
+## Research at a glance / 研究全体像
+
+[![Gacky-Lab — bilingual overview of the target creators, market hypotheses, five research repositories, CDE proposal and current evidence](assets/profile-infographic.svg)](assets/profile-infographic.svg)
+
+[Full-size SVG / 拡大表示](assets/profile-infographic.svg) · [Editable HTML / 編集用原本](assets/profile-infographic.html) (download and open locally / 保存してブラウザで表示).
+
+The overview summarizes the research direction and evidence boundaries; it does not claim validated market demand or completed production capabilities. / 研究方針と検証範囲の概要図です。市場需要や実楽曲の一貫制作を実証済みとするものではありません。
+
 ## Who and why / 誰の何を解決するのか
 
 **Primary audience / 主対象（仮説）:** Independent AI music creators and vocal-synthesis/DAW producers who want to refine specific musical expressions rather than simply accept a generated track.  
