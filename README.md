@@ -149,3 +149,5 @@ The architecture shows the intended production system. It is not a claim that ev
 Gacky-Labは、製造業の生産技術・品質保証・要求定義の考え方をAI音楽制作に応用する個人研究プロジェクトです。歌詞設計、Sunoによる生成、音楽解析、VOCALOID、MV制作を独立した工程として設計し、再現可能な制作基盤を目指しています。現時点では合成素材による技術検証が中心であり、実楽曲の一貫自動制作や芸術的品質の向上は未実証です。
 
 Independent personal research. Not affiliated with Suno, Yamaha, Crypton, Remotion or other providers. No blanket reuse license is granted; third-party terms apply.
+
+VOCALOID歌唱制作では、版ごとに[発音・前後関係・通し試聴の自己チェックシート](https://github.com/Gacky-Lab/AI-VOCALOID-STUDIO/blob/main/docs/VOCAL_SELF_CHECK.md)を記入します。
