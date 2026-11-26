@@ -98,7 +98,7 @@ The Suno transaction is simulated; the audio comes from a simple synthesizer dri
 | [LYRIC-DESIGN-FRAMEWORK](https://github.com/Gacky-Lab/LYRIC-DESIGN-FRAMEWORK) | Emotion, lyric design, editorial evaluation, versioned handoff | [v0.1.0-alpha](https://github.com/Gacky-Lab/LYRIC-DESIGN-FRAMEWORK/releases/tag/v0.1.0-alpha) |
 | [SUNO-GENERATION-OPTIMIZER](https://github.com/Gacky-Lab/SUNO-GENERATION-OPTIMIZER) | Suno MCP, bounded feedback, independent audio QA | [v0.2.0-alpha](https://github.com/Gacky-Lab/SUNO-GENERATION-OPTIMIZER/releases/tag/v0.2.0-alpha) |
 | [AI-MUSIC-INTELLIGENCE-ENGINE](https://github.com/Gacky-Lab/AI-MUSIC-INTELLIGENCE-ENGINE) | Music information retrieval, signal analysis, evidence contracts; CDE research proposal | [v0.1.0-alpha](https://github.com/Gacky-Lab/AI-MUSIC-INTELLIGENCE-ENGINE/releases/tag/v0.1.0-alpha) |
-| [AI-VOCALOID-STUDIO](https://github.com/Gacky-Lab/AI-VOCALOID-STUDIO) | Song IR, vocal synthesis, MIDI and DAW workflows | [v0.1.0-alpha](https://github.com/Gacky-Lab/AI-VOCALOID-STUDIO/releases/tag/v0.1.0-alpha) |
+| [AI-VOCALOID-STUDIO](https://github.com/Gacky-Lab/AI-VOCALOID-STUDIO) | Song IR, vocal synthesis, MIDI and DAW workflows · [制作・周波数監査の必須工程](https://github.com/Gacky-Lab/AI-VOCALOID-STUDIO/blob/main/docs/VOCAL_PRODUCTION_ACCEPTANCE.md) | [v0.1.0-alpha](https://github.com/Gacky-Lab/AI-VOCALOID-STUDIO/releases/tag/v0.1.0-alpha) |
 | [AI-MUSIC-VIDEO-STUDIO](https://github.com/Gacky-Lab/AI-MUSIC-VIDEO-STUDIO) | Lyric synchronization, programmatic editing, rendering, video QA | [v0.2.0-alpha](https://github.com/Gacky-Lab/AI-MUSIC-VIDEO-STUDIO/releases/tag/v0.2.0-alpha) |
 
 All releases are research previews, not production-ready products.

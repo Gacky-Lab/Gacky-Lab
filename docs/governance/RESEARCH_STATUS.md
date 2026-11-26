@@ -14,3 +14,7 @@
 [Primary evidence links and planned user-value studies](RESEARCH_TRACEABILITY.md). Historical baselines remain unchanged. No license or publication permissions are granted by this index.
 
 日本語：合成素材の技術検証、提供元の応答、本人報告、実音源測定、聴取実験を区別する。未実証を完了としない。各リポジトリの最新READMEとDVRが詳細の正本。
+
+## 原唱WAVからの歌唱再制作における判定
+
+VOCALOID案件では、原唱・直前版・新版を全曲5 ms刻みで照合し、音符別の判定、再合成、Excel監査表の再読込、音量を揃えた試聴を個別に記録する。計測済み・不合格・未検証・本人試聴承認待ちを区別し、版更新時には依存する証跡を更新する。手順と合否条件の正本は制作リポジトリに置く。[AI-VOCALOID-STUDIO 制作工程と受入条件](https://github.com/Gacky-Lab/AI-VOCALOID-STUDIO/blob/main/docs/VOCAL_PRODUCTION_ACCEPTANCE.md)
